@@ -50,11 +50,11 @@ Here are some screenshots of pages I was asked to use as models.
 ![screencap](/screenshots/768-index.png|height=350px)
 ![screencap](/screenshots/400-index.png|height=350px) -->
 
-<img src="screenshots/992-portfolio.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="992-portfolio" alt="992-portfolio">
-<img src="screenshots/768-portfolio.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="768-portfolio" alt="768-portfolio">
-<img src="screenshots/400-portfolio.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="400-portfolio" alt="400-portfolio">
+<img src="screenshots/992-portfolio.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="992-portfolio" alt="992-portfolio">
+<img src="screenshots/768-portfolio.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="768-portfolio" alt="768-portfolio">
+<img src="screenshots/400-portfolio.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="400-portfolio" alt="400-portfolio">
 
-<img src="screenshots/992-contact.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="992-contact" alt="992-contact">
-<img src="screenshots/768-contact.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="768-contact" alt="768-contact">
-<img src="screenshots/400-contact.png" style="width:auto; height:375px; float:left; margin-right:10px; margin-bottom:20px" title="400-contact" alt="400-contact">
+<img src="screenshots/992-contact.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="992-contact" alt="992-contact">
+<img src="screenshots/768-contact.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="768-contact" alt="768-contact">
+<img src="screenshots/400-contact.png" style="float:left; margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="400-contact" alt="400-contact">
 
