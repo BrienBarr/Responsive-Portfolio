@@ -46,9 +46,9 @@ I was asked to meet the following minimum requirements:
 
 Here are some screenshots of pages I was asked to use as models.
 
-<!-- ![screencap](/screenshots/992-index.png|height=350px)
-![screencap](/screenshots/768-index.png|height=350px)
-![screencap](/screenshots/400-index.png|height=350px) -->
+<img src="screenshots/992-index.png" style="margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="992-index" alt="992-index">
+<img src="screenshots/768-index.png" style="margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="768-index" alt="768-index">
+<img src="screenshots/400-index.png" style="margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="400-index" alt="400-index">
 
 <img src="screenshots/992-portfolio.png" style="margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="992-portfolio" alt="992-portfolio">
 <img src="screenshots/768-portfolio.png" style="margin-right:10px; margin-bottom:20px" width="auto" height="375px" title="768-portfolio" alt="768-portfolio">
