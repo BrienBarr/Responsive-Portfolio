@@ -1,12 +1,15 @@
+/* Body custom styling */
 body{
     background-color: #A2D4DC;
 }
 
+/* styling to add padding to nav */
 .squeeze{
     padding-left: 40px;
     padding-right: 40px;
 }
 
+/* styling to customize container */
 .wrapper{
     background-color: #F2F5F5;
     margin-left: 20px;
@@ -16,65 +19,90 @@ body{
     padding-bottom: 20px;
 }
 
+/* styling for h1 heading in wrapper class */
 .wrapper h1{
     margin-bottom: 10px;
     padding-bottom: 10px;
     border-bottom: solid 3px;
 }
 
+/* styling for images in wrapper class*/
 .wrapper img{
     margin-right: 10px;
 }
 
+/* custom styling for card class */
 .card{
     width: 18rem;
     margin-bottom: 10px;
 }
 
+/* custom styling to add more margin at the bottom of the element */
 .margin-bottom-larger{
-    margin-bottom: 100px;
+    margin-bottom:
+     100px;
 }
-
+/* custom styling to make the container on contact page smaller at a fixed height */
 .smaller{
     height: 470px;
 }
 
+/* @media query for extra small screens */
 @media screen and (max-width: 575.98px) {
+    
+    /* Make the h1 heading size small */
     h1{
         font-size: 1.5rem;
     }
+
+    /* Make the container fit the width of the screen and make the font size smaller */
     .container{
         width: 100%;
         margin-left: 0;
         font-size: smaller;
     }
+
+    /* Make the image thumbnail small */
     .img-thumbnail{
         width: 125px;
         height: auto;
     }
+
+    /* Make the cards on the portfolio page small */
     .smallcard{
         width: 8rem;
         height: auto;
     }
 }
 
+/* @media query for small and medium screens */
 @media (min-width: 576px) and (max-width: 991.98px) {
+
+    /* Make the h1 heading smaller */
     h1{
         font-size: 2.0rem;
     }
+
+    /* Make the container smaller and make the font size smaller*/
     .container{
         width: 85%;
         margin-left: 0;
         font-size: medium;
     }
+
+    /* Make the thumbnail images smaller */
     .medium{
         width: 175px;
         height: auto;
     }
+
+    /* Make the cards on the portfolio page smaller */
     .smallcard{
         width: 15rem;
         height: auto;
     }
+
+    /* Make the images in the cards on the portfolio page smaller */
     .smallcard img{
         width: 250px;
         height: auto;
